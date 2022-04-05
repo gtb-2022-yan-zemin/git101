@@ -3,7 +3,7 @@ My name is Zemin Yan, and I also go by Josie Yan.
 
 This is me. 
 
-![11201649201599_ pic](https://user-images.githubusercontent.com/63740398/161869281-96214f5d-fa95-4e70-bace-39e60faab5a0.jpg)
+![11201649201599_ pic](https://user-images.githubusercontent.com/63740398/161869281-96214f5d-fa95-4e70-bace-39e60faab5a0.jpg alt="https://user-images.githubusercontent.com/63740398/161869281-96214f5d-fa95-4e70-bace-39e60faab5a0.jpg" width="50%" /)
 
 This is also me.
 
