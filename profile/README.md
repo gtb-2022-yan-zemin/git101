@@ -10,7 +10,7 @@ This is also me.
 ![11211649201608_ pic](https://user-images.githubusercontent.com/63740398/161869288-2c1d8979-3900-4329-9076-cab9ee910422.jpg)
 
 As you can see, I have a cat. His name is Xiaodi and he is 2 years and 6 months old now. 
-<img src="image/cat1.jpg" alt="cat1" width="50%" />
+
 ![11221649201646_ pic_hd](https://user-images.githubusercontent.com/63740398/161869311-5940974d-ba72-4e1d-a3e9-e395b2d692a4.jpg)
 
 
